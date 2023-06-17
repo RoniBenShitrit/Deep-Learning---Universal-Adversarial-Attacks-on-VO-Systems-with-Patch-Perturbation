@@ -1,4 +1,4 @@
-### Universal Adversarial Attacks on VO Systems with Patch Perturbation
+## Universal Adversarial Attacks on VO Systems with Patch Perturbation
 
 ### Deep Learning - Final Project
 
